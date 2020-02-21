@@ -1,0 +1,9 @@
+.example-selected-value {
+  margin: 15px 0;
+}
+.openall{
+  transform: rotate(90deg);
+}
+.closeall {
+transform: rotate(270deg);
+}
